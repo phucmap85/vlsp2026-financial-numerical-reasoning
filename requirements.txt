@@ -1,0 +1,26 @@
+# Linux x86_64 / Python 3.12
+transformers>=5.5.3,<=5.17.0
+vllm==0.24.0
+torch==2.11.0
+torchvision==0.26.0
+torchaudio==2.11.0
+unsloth==2026.10.3
+unsloth_zoo==2026.10.3
+trl==0.22.2
+peft==0.21.2
+accelerate==1.15.0
+datasets==4.8.5
+bitsandbytes==0.50.2
+huggingface_hub==1.33.0
+hf_transfer==0.1.9
+safetensors==0.8.0
+sentencepiece==0.2.2
+protobuf==5.29.6
+pillow>=12.3.0
+numpy==2.3.5
+pandas==3.0.6
+pyarrow==26.0.0
+tqdm>=4.70.1
+tyro==1.0.16
+psutil==7.2.2
+packaging==26.3

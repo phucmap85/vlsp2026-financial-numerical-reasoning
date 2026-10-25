@@ -1,0 +1,1 @@
+{"id": "33333333-3333-3333-3333-333333333333", "status": "ok", "model": "Qwen/Qwen3-8B", "subqueries": ["Tổng tài sản năm 2022 và 2023 là bao nhiêu?"], "extractions": [{"query": "Tổng tài sản năm 2022 và 2023 là bao nhiêu?", "answer": "150.0 và 200.0", "status": "ok"}]}

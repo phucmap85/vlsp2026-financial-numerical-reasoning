@@ -1,0 +1,20 @@
+[
+  {
+    "qid": "33333333-3333-3333-3333-333333333333",
+    "text": [
+      "Báo cáo tóm tắt công bố thông tin thị trường mẫu.",
+      "### Table 1 ###",
+      "### Image 1 ###"
+    ],
+    "tables": {
+      "Table 1": "<table><tr><th>Chỉ tiêu</th><th>2022</th><th>2023</th></tr><tr><td>Tổng tài sản</td><td>150.0</td><td>200.0</td></tr></table>"
+    },
+    "images": {
+      "Image 1": "33333333-0000-0000-0000-000000000001.png"
+    },
+    "qa": {
+      "question": "Tổng tài sản giai đoạn 2022-2023 đạt tổng cộng bao nhiêu tỷ đồng?",
+      "program": "table_sum(Table 1; Tổng tài sản; 2022; 2023)"
+    }
+  }
+]

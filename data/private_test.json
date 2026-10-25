@@ -1,0 +1,20 @@
+[
+  {
+    "qid": "44444444-4444-4444-4444-444444444444",
+    "text": [
+      "Báo cáo đánh giá hiệu quả đầu tư dự án thử nghiệm.",
+      "### Table 1 ###",
+      "### Image 1 ###"
+    ],
+    "tables": {
+      "Table 1": "<table><tr><th>Chỉ tiêu</th><th>2022</th><th>2023</th></tr><tr><td>Vốn chủ sở hữu</td><td>80.0</td><td>110.0</td></tr></table>"
+    },
+    "images": {
+      "Image 1": "44444444-0000-0000-0000-000000000001.png"
+    },
+    "qa": {
+      "question": "Mức tăng vốn chủ sở hữu từ năm 2022 đến năm 2023 là bao nhiêu tỷ đồng?",
+      "program": "subtract(110.0; 80.0)"
+    }
+  }
+]
