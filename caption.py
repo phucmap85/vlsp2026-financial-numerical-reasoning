@@ -3,6 +3,9 @@ import re
 import sys
 from pathlib import Path
 
+import os
+os.environ["VLLM_USE_FLASHINFER_SAMPLER"] = "0"
+
 FINAL_DIR = Path(__file__).resolve().parent
 if str(FINAL_DIR) not in sys.path:
     sys.path.insert(0, str(FINAL_DIR))
