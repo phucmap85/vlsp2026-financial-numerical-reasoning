@@ -87,7 +87,7 @@ python infer.py
 
 ## 4. Results
 
-Our team (**Taekz**) secured **3rd Place** in the official VLSP 2026 Financial Numerical Reasoning QA private test set:
+Our team (**Taekz**) ranked **3rd Place** on the official VLSP 2026 Financial Numerical Reasoning QA private test set:
 
 | Rank | Team | Program Accuracy (PA) | Execution Accuracy (EA) |
 | :---: | :--- | :---: | :---: |
@@ -98,4 +98,4 @@ Our team (**Taekz**) secured **3rd Place** in the official VLSP 2026 Financial N
 | 5 | rudeus | 73.32% | 85.71% |
 | ... | ... | ... | ... |
 
-On the public test set, our model achieved **68.85% Local PA** using graph-based structural evaluation (+28.54% over the base instruction model).
+On the public test set, our approach achieved **68.85% Local PA** using graph-based structural evaluation (+28.54% over the base instruction model).
